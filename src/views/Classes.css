@@ -1,0 +1,18 @@
+.btn__submit {
+border-radius: 15px !important;
+width: 250px !important;
+background-color:#832219 !important;
+}
+
+.itag__space i {
+    margin:0 12px !important;
+}
+.inter__label label {
+    color:#832219 !important;
+}
+.inter__label input {
+    border:1px solid #832219 !important;
+}
+.inter__label textarea {
+    border:1px solid #832219 !important;
+}
